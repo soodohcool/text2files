@@ -38,4 +38,4 @@ Quickly generates a file and directory structure based on an indented text file
 
 **Run command:** `python text2files.py <path_to_structure_file.txt>`
 
-Example: `python text2files.py ./documents/structure.txt`
+Example: `python text2files.py ./example_structure.txt`
