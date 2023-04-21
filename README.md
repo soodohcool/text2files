@@ -4,7 +4,7 @@ Quickly generates a file and directory structure based on an indented text file
 ## Notes
 - The script is written in Python 3.6.  It has not been tested on other versions of Python.
 
-- Make sure your file structure lists any child directory first (before any files on the same level as the parent). This is important because the script will create the directory before creating the file.  If you list files first, the script could fail. 
+- Make sure your file structure lists any child directory of the root first. This is important because the script will create the directory before creating the file.  If you list files first, the script could fail. 
 
 - Proper Structure Example:
     ``` 
