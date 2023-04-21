@@ -1,0 +1,20 @@
+example_structure
+  api
+    controllers
+      UserController.php
+      DiaryEntryController.php
+      TagController.php
+    models
+      User.php
+      DiaryEntry.php
+      Tag.php
+    middleware
+      Authentication.php
+    config
+      Database.php
+    utils
+      Helper.php
+  .htaccess
+  index.php
+
+  

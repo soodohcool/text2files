@@ -68,7 +68,7 @@ def read_structure_from_file(file_name):
 if __name__ == '__main__':
     # If the script is not provided with a file name argument, print usage instructions and exit
     if len(sys.argv) < 2:
-        print('Usage: python create_structure.py <structure_file>')
+        print('Usage: python text2files.py <structure_file>')
         sys.exit(1)
 
     # Get the file name from the script argument
